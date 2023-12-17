@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1702813617951,
+      "tag": "0000_modern_polaris",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1702814648040,
+      "tag": "0001_busy_glorian",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1702815241611,
+      "tag": "0002_square_captain_midlands",
+      "breakpoints": true
+    }
+  ]
+}
